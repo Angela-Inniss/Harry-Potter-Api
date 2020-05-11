@@ -2,8 +2,8 @@
 #hp-container {
   justify-content: space-around;
   align-items: center;
-
 }
+
 #hp-container img {
   max-width: 163px;
   max-height: 222px;
@@ -11,28 +11,27 @@
   -webkit-box-shadow: 10px 8px 5px 0px rgba(0,0,0,0.75);
   -moz-box-shadow: 10px 8px 5px 0px rgba(0,0,0,0.75);
   box-shadow: 10px 8px 5px 0px rgba(0,0,0,0.75);
+}
 
-}
-div {
-  padding:10px;
-}
 .card {
   text-align: center;
   background-color: lightgrey !important;
   margin:20px;
+  padding:10px;
 }
 
 .image {
   background-color: black;
 }
+
 .info-block {
   background-color: whitesmoke;
 }
+
 #header-container{
   background-color: #873436;
-
 }
+
 #header-container img{
   width: 180px;
-
 }
